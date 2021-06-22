@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kanahei Account Book</string>
+    <string name="title">Kanahei accounts book</string>
+    <string name="date">date</string>
+    <string name="income"> Income</string>
+    <string name="paid"> paid</string>
+    <string name="enter">Enter!
+        -----------</string>
+    <string name="list">List</string>
+    <string name="others">Others</string>
+    <string name="amount">Amount</string>
+    <string name="Date">Date</string>
+    <string name="memo">Memo</string>
+    <string name="line">----------------------------------------------------------------------</string>
+    <string name="money">0</string>
+    <string name="dollar">$</string>
+</resources>

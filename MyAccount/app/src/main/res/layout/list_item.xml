@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="6dp">
+
+
+    <TextView
+        android:id="@+id/word"
+        android:layout_width="394dp"
+        android:layout_height="40dp"
+        android:background="#D2FFCFAF"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        app:fontFamily="@font/coming_soon" />
+</LinearLayout>
